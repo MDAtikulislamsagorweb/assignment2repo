@@ -1,0 +1,117 @@
+
+
+
+nav{
+    display: flex;
+    justify-content:center;
+}
+nav > ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 30px;
+}
+.title{
+    background-image:;
+    margin-top: 20px;
+}
+.bgimg{
+    display: flex;
+    justify-content: center;
+}
+.content h1{
+    display:block;
+    text-align: center;
+}
+.content p{
+    display: block;
+    text-align: center;
+}
+.choose{
+    display: block;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.hero{
+    margin: 0;
+    height: 220px;
+    border: solid blue;
+    color:black;
+    text-align: center;
+    background-color: antiquewhite;
+}
+.display{
+    display: flex;
+
+}
+.hand{
+    margin: 10px;
+    width: 573px;
+    height: 284px;
+    flex-shrink: 0;
+    border-radius:16px;
+    border:  ;
+    background: antiquewhite   
+}
+
+.hand img{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.hand h2{
+    margin-left: 20px;
+}
+
+.world{
+    margin: 10px;
+    width:573px;
+    height: 284px;
+    flex-shrink: 0;
+    border-radius:16px;
+    border: ;
+    background:green;
+}
+.world img{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.world h2{
+    margin: 20px;
+}
+.best{
+    margin: 50px;
+    width: 573px;
+    height: 284px;
+    flex-shrink: 0;
+    border-radius:16px;
+    border:  ;
+    background: rebeccapurple   
+}
+.best img{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.last{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+
+
+
+.best h2{
+    margin-left: 20px;
+}
+.suming img{
+    margin-top: 10px;
+    justify-content: center;
+}
+.btn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
